@@ -267,7 +267,7 @@ const ContactSection = () => {
   return (
     <Section>
       <h2 className="text-3xl text-white md:text-5xl font-bold">Contact me</h2>
-      <div className="mt-8 p-8 rounded-md bg-white bg-opacity-65 border-amber-500 border-solid   border-2  w-96 max-w-full">
+      <div className="mt-8 p-8 rounded-md bg-white border-amber-500 border-solid   border-2  w-96 max-w-full">
         {state.succeeded ? (
           <p className="text-gray-900 text-center">Thanks for your message !</p>
         ) : (
