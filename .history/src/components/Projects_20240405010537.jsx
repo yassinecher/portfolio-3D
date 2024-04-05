@@ -15,7 +15,7 @@ export const projects = [
   },
   {
     title: "GamingGear",
-    url: "https://www.behance.net/gallery/195543119/GamingGear",
+    url: "https://www.behance.net/gallery/195543119/GamingGearttps://www.youtube.com/watch?v=YkHqpqJgLKw",
     image: "projects/gaminggear.jpg",
     description: "NextJs, postgresql, tailwind, Prismadb",
   },

@@ -8,22 +8,22 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "AppoitmentEase",
-    url: "https://www.behance.net/gallery/195540733/AppoitmentEase",
-    image: "projects/appotmentease.jpg",
-    description: "Angular, Springboot, openAi api",
+    title: "Wawatmos",
+    url: "https://r3f-wawatmos-final.vercel.app/",
+    image: "projects/wawatmos.jpg",
+    description: "Recreating the Atmos Awwwards website with React Three Fiber",
   },
   {
-    title: "GamingGear",
-    url: "https://www.behance.net/gallery/195543119/GamingGear",
-    image: "projects/gaminggear.jpg",
-    description: "NextJs, postgresql, tailwind, Prismadb",
+    title: "Portfolio Baking",
+    url: "https://www.behance.net/gallery/195543119/GamingGearttps://www.youtube.com/watch?v=YkHqpqJgLKw",
+    image: "projects/gaminggear.png",
+    description: "Learn how to bake a 3D model with Blender and use it in r3f",
   },
   {
-    title: "AuxtarGroup",
-    url: "https://www.behance.net/gallery/195545695/Auxstargroup",
-    image: "projects/auxtar.jpg",
-    description: "Wordpress, Elementor",
+    title: "3D Avatar",
+    url: "https://www.youtube.com/watch?v=pGMKIyALcK0",
+    image: "projects/avatar.jpg",
+    description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
   },
  
 ];
